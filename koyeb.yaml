@@ -1,6 +1,6 @@
-name: khan-ai
+name: king-md
 services:
-  - name: khan-ai-service
+  - name: king-md-service
     type: web
     ports:
       - 5000
