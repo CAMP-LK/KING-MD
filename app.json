@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://raw.githubusercontent.com/JawadYTX/KHAN-DATA/refs/heads/main/logo/KHAN.png",
-  "keywords": ["KHAN-MD"],
+  "name": "KING-MD",
+  "description": "Javascript WhatsApp bot made by Dilisha Gimshan",
+  "logo": "https://i.ibb.co/21wBg1F2/3956e79130eb5907.jpg",
+  "keywords": ["KING-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "KING-MD"
     }, 
       
     "PREFIX": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY KING-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "Dilisha Gimshan"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "94771098429"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "KING-MD"
 
       }, 
 
@@ -119,7 +119,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© POWERED BY KING CINEMA*"
     },
 
       "DELETE_LINKS": {
